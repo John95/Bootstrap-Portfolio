@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Making a portfolio website using bootstrap.
+# Portfolio
+My portfolio made with Bootstrap
