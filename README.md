@@ -1,3 +1,3 @@
 # Portfolio
-My portfolio made with Bootstrap
+My portfolio made with Bootstrap. 
 https://john95.github.io/bootstrap-portfolio/
